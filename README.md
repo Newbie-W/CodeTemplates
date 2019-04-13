@@ -1,2 +1,3 @@
-# CodeTemplates
+﻿# CodeTemplates
 一些常用的算法代码模板
+因为算法并不是很好，总是忘，所以在此处记录，便于记忆。
